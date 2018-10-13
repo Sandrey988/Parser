@@ -1,0 +1,1 @@
+ruby grab.rb "https://www.petsonic.com/hobbit-half/?id_category=354&n=55" "task"
